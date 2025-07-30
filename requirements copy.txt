@@ -1,0 +1,1 @@
+numpypip install -r requirements\ copy.txt
